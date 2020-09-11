@@ -22,8 +22,9 @@ h1 {
 ul li {
     padding: 5px;
     list-style: none;
-    display: inline;
-    border: 2px solid white;
+    display: inline-block ;
+    border: 2px solid blanchedalmond;
+    
   
     
 
@@ -53,7 +54,6 @@ ul li {
 
 }
 
-img {
-border-radius: 50%;
-
+p {
+    font-size: larger;
 }

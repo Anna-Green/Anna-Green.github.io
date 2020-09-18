@@ -1,6 +1,7 @@
 * {
     margin: 0px;
-    padding: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
 
 }
 
@@ -15,16 +16,21 @@ body {
 
 }
 
+h3 {
+    font-size: 30px;
+}
+
 h1 {
     font-size: 50px;
     
 }
 
 ul li {
-    padding: 5px;
+    padding: 10px;
     list-style: none;
     display: inline-block ;
     border: 2px solid blanchedalmond;
+    
     
   
     
